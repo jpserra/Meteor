@@ -1,2 +1,2 @@
-Meteor
-======
+Simple aplication using Meteor.
+
